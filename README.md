@@ -1,18 +1,83 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Science
+# Python
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adityasingh02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasingh776433@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaSingh7764&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSingh7764&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh7764&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Welcome to my **Python Learning Repository**  
+This repository documents my step by step learning path of **Python programming**, covering everything from the basics to object oriented programming and file handling.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityaSingh7764&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About the Project
+
+This repository serves as my complete collection of Jupyter notebooks created while learning Python programming.  
+Each notebook focuses on specific Python concepts starting from syntax and data types, progressing to control flow, functions, OOP, and file handling.
+
+I learned how to write clean, efficient, and modular Python code through practical examples and exercises.
+
+---
+
+## Learning Modules Overview
+
+1. **`1_Python_Fundamentals.ipynb`** – Python Basics  
+   - Introduction to Python syntax  
+   - Data types, variables, and input/output  
+   - Type casting and basic operations  
+
+2. **`2_Operators_IfElse_Loops.ipynb`** – Control Flow  
+   - Arithmetic, logical, and comparison operators  
+   - Conditional statements (`if`, `elif`, `else`)  
+   - Iterative statements (`for`, `while`)  
+   - Nested loops and flow control  
+
+3. **`3_Strings_in_Python.ipynb`** – Working with Strings  
+   - String creation, slicing, and formatting  
+   - String methods and manipulation  
+   - F-strings and multiline strings  
+
+4. **`4_Lists_in_Python.ipynb`** – Lists and Operations  
+   - List creation and indexing  
+   - Adding, removing, and modifying elements  
+   - List comprehension and nested lists  
+
+5. **`5_Tuples_Sets_and_Dictionary.ipynb`** – Core Data Structures  
+   - Immutable and mutable data types  
+   - Set operations (union, intersection, difference)  
+   - Dictionary creation and key-value manipulation  
+
+6. **`6_Functions_in_Python.ipynb`** – Functions and Scope  
+   - Defining and calling functions  
+   - Parameters, arguments, and return statements  
+   - Lambda functions and recursion  
+   - Local and global scope  
+
+7. **`7_OOP_Class_Object.ipynb`** – Object-Oriented Programming (Part 1)  
+   - Introduction to classes and objects  
+   - Attributes and methods  
+   - Constructor (`__init__`) and `self` keyword  
+
+8. **`8_OOP_Part_2.ipynb`** – Advanced OOP Concepts  
+   - Inheritance and method overriding  
+   - Encapsulation and abstraction  
+   - Polymorphism  
+
+9. **`9_OOP_Part_3.ipynb`** – More OOP Techniques  
+   - Class methods and static methods  
+   - Magic/Dunder methods  
+   - Composition vs. Inheritance  
+
+10. **`10_File_Handling.ipynb`** – File Handling in Python  
+    - Reading and writing files  
+    - Working with text, CSV, and JSON files  
+    - Using context managers (`with open`)  
+    - Exception handling during file operations  
+
+11. **`11_Exception_Handling.ipynb`** – Handling Errors Gracefully  
+    - Introduction to exceptions in Python  
+    - Using `try`, `except`, `else`, and `finally` blocks  
+    - Raising exceptions manually  
+    - Creating and handling custom exceptions  
+    - Best practices for clean error handling 
+---
+
+## Tools & Libraries Used
+
+- Python 
+- Jupyter Notebook 
